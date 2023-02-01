@@ -18,4 +18,7 @@ body{
   height: auto;
   margin: 0 auto;
   background-color: white;
+  overflow: hidden;
+  position: relative;
+  padding-top: 60px;
 }
